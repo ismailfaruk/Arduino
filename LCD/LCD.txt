@@ -1,0 +1,9 @@
+format of LiquidCrystal lcd:
+
+"lcd(RS, E, Do-D7)"
+
+
+lcd.print << prints text
+lcd.write << can use variable
+lcd.display << display on
+lcd.nodisplay << display off
