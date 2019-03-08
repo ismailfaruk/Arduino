@@ -1,8 +1,8 @@
 # Arduino
 
-This reopository contains the projects created for the Arduino microcontroller board.
-
 ## Description
+
+This reopository contains the prototype and test projects created using the Arduino microcontroller board.
 
 ## Built With
 
