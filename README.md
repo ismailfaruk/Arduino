@@ -7,6 +7,7 @@ This reopository contains the prototype and test projects created using the Ardu
 ## Built With
 
 * [Arduino](https://www.arduino.cc/) - The programming and microcontroller board used.
+![arduino_img](https://github.com/ismailfaruk/Arduino/blob/master/Arduino%20Uno%20Rev3.jpg)
 
 ## Authors
 
