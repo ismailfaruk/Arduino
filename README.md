@@ -8,7 +8,7 @@ This reopository contains the prototype and test projects created using the Ardu
 
 * [Arduino](https://www.arduino.cc/) - The programming and microcontroller board used.
 
-![arduino_img](Arduino Uno Rev3.jpg)
+![arduino_img](Arduino%20Uno%20Rev3.jpg)
 
 ## Authors
 
